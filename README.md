@@ -1,5 +1,7 @@
 # SWARM (SWM)
 
+**Start here: [louisinthesubway/swarm](https://github.com/louisinthesubway/swarm)** — what SWARM is, the numbers, every component with its upstream and licence, how to get started, how to build, the security policy.
+
 SWARM (ticker SWM) is a cryptocurrency with its own proof-of-work blockchain, built for one thing: payments that stay private. A shielded SWARM payment keeps the sender, the receiver and the amount encrypted on the chain itself, using zero-knowledge proofs; the network still verifies that the payment is valid. There are at most 20,999,987 SWM, every one of them mined: no premine, no sale, no presale, no token offering. The mainnet has been live since 26 September 2026.
 
 The software is open source and lives in the repositories of this account:
